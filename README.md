@@ -1,0 +1,1 @@
+# mtb-example-btsdk-mesh-snip-default-transition-time-client
